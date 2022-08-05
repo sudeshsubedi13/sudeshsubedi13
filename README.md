@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sudeshsubedi13
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I’m currently learning Bachelor in computer engineering.
